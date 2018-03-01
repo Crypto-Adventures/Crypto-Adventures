@@ -1,0 +1,6 @@
+[submodule "Crypto-Adventures-Contracts"]
+	path = Crypto-Adventures-Contracts
+	url = https://github.com/Crypto-Adventures/Crypto-Adventures-Contracts.git
+[submodule "Crypto-Adventures.github.io"]
+	path = Crypto-Adventures.github.io
+	url = https://github.com/Crypto-Adventures/Crypto-Adventures.github.io.git
