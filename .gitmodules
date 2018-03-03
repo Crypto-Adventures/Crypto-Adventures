@@ -4,3 +4,6 @@
 [submodule "Crypto-Adventures.github.io"]
 	path = Crypto-Adventures.github.io
 	url = https://github.com/Crypto-Adventures/Crypto-Adventures.github.io.git
+[submodule "Crypto-Adventures-Generation"]
+	path = Crypto-Adventures-Contracts/contracts/Crypto-Adventures-Generation
+	url = https://github.com/Emiller88/Crypto-Adventures-Generation.git
